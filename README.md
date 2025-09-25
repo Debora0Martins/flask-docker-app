@@ -105,12 +105,11 @@ Push para sua branch: git push origin minha-feature.
 
 Abra um Pull Request.
 
-## Lincença
+## LICENÇA ##
 Este projeto está licenciado sob a MIT License.
 
-## Autor
+## AUTOR ##
 Débora Flaviana da Silva Almeida Martins
 GitHub: Debora0Martins
 Docker Hub: debora0martins/flask-docker-app
 Email: ddeboraf.mar@gmail.com
-
