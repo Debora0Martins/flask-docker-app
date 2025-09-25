@@ -49,8 +49,7 @@ git clone git@github.com:Debora0Martins/flask-docker-app.git
 cd flask-docker-app
 Construir a imagem Docker:
 
-bash
-Copiar código
+
 sudo docker build -t debora0martins/flask-docker-app .
 Ou baixar direto do Docker Hub:
 
@@ -80,23 +79,19 @@ flask-docker/
 Comandos Docker Úteis
 Listar containers ativos:
 
-bash
-Copiar código
+
 sudo docker ps
 Parar container:
 
-bash
-Copiar código
+
 sudo docker stop <CONTAINER_ID>
 Acessar container:
 
-bash
-Copiar código
+
 sudo docker exec -it <CONTAINER_ID> /bin/bash
 Remover containers e imagens antigas:
 
-bash
-Copiar código
+
 sudo docker rm <CONTAINER_ID>
 sudo docker rmi <IMAGE_ID>
 Contribuição
